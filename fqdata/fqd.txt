@@ -1,0 +1,44 @@
+#####
+$WRD bob
+$REF 0
+$REM 0
+$FAI 0
+$KOR 밥이 밥이지 뭐야
+$ENG bob is bob so what
+$STC bob is bob so what
+#####
+$WRD hi
+$REF 5
+$REM 0
+$FAI -1
+$KOR hahaah
+$KOR h
+$ENG enenen
+$ENG en
+$STC Hi! my name is seongho.
+#####
+$WRD search
+$REF 0
+$REM 1
+$FAI -1
+$KOR 검색하다
+$ENG to look for something
+$ENG haha
+$STC I have been searching for something
+#####
+$WRD babo
+$REF 2
+$REM 1
+$FAI 1
+$KOR 바보다 바보
+$ENG Babo means baboda baboya
+$STC Babo babo babo ya
+#####
+$WRD hello
+$REF 3
+$REM 0
+$FAI -1
+$KOR hahaha
+$KOR hohoho
+$ENG A way of greeting people
+$STC Hello! my name is elder Grant.

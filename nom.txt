@@ -1,0 +1,8 @@
+#####
+$WRD hi
+$REF 5
+$KOR hahaah
+$KOR h
+$ENG enenen
+$ENG en
+$STC Hi! my name is seongho.

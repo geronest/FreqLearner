@@ -1,0 +1,16 @@
+#####
+$WRD plant
+$REF 3
+$REM 0
+$FAI 0
+$KOR 플랜트가 풀이지 뭐야
+$ENG Plant is plant so what
+$STC Plant is plant so what
+#####
+$WRD babo
+$REF 2
+$REM 1
+$FAI 0
+$KOR 바보야
+$ENG baboya
+$STC babo babo babo ya
